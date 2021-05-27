@@ -1,0 +1,19 @@
+#Abrir microsoft edge desde terminal
+
+C:>start microsoft-edge: http://localhost/spos/
+
+
+echo ==================================
+echo =                                =
+echo =          Agrovet Las Palmas    =
+echo =                                =
+echo ==================================
+
+ECHO
+    COLOR 30 
+
+    REM Comando de ejecucion al inicio
+    C:\xampp\xampp_start.exe
+    start microsoft-edge:http://localhost/spos/
+
+@ECHO OFF
